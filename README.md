@@ -1,6 +1,6 @@
-# Walmart Search API
+# Walmart Search API (https://walmart-client-api.herokuapp.com/)
 
-This application was written using PHP and HTML, connecting to the Walmart Labs endpoint with CURL. It is published on Heroku, because the PHP is not supported on github pages.
+This application was written using PHP and HTML, connecting to the Walmart Labs endpoint with CURL. It is published on Heroku, because the PHP is not supported on github pages.To access the application, please click: https://walmart-client-api.herokuapp.com/
 
 Search Feature
  - This application accepts a product search string from the user.
