@@ -8,7 +8,7 @@ Search Feature
  - This application accepts a product search string from the user.
  - The string is passed throught an API connection with Walmart Labs.
  - The Walmart Labs Product Lookup API retrieve details about the first 10 items in the search result
- - Details about the first 10 product search results is showed to the user.
+ - Details about the first 10 product search results are showed to the user.
 
 Recommendations Feature
  - Accept user input via selection on a product name or thumbnail image
